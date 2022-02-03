@@ -1,3 +1,3 @@
 export default {
-  url: process.env.HOSTNAME || 'localhost:3001',
+  url: 'https://api-rest-viniciussergio.herokuapp.com',
 };

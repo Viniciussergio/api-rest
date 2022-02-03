@@ -1,3 +1,3 @@
 "use strict";Object.defineProperty(exports, "__esModule", {value: true});exports. default = {
-  url: process.env.HOSTNAME || 'localhost:3001',
+  url: 'http://localhost:3001', // https://api-rest-viniciussergio.herokuapp.com
 };
